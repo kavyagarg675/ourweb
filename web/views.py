@@ -50,7 +50,7 @@ def index_view(request):
             {
                 'title': 'Enterprise networking and IT solutions',
                 'image': 'images/netmas_work.png',
-                'logo': 'images/netmas logo.png',
+                'logo': 'images/netmas_logo.png',
                 'client': 'Netmas'
             },
         ],

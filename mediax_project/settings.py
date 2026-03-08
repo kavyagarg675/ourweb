@@ -30,6 +30,7 @@ ALLOWED_HOSTS = [
     'www.desarka.com',
     'ourweb-five.vercel.app',
     '.vercel.app',
+    '127.0.0.1'
 ]
 
 
